@@ -11,7 +11,7 @@
 ---
 
 <div align="center" style="display: flex; justify-content: space-between; width: 100%;">
-      <a href="https://github.com/speakeasy-sdks/train-travel-sdks/tree/main/typescript" ><img src="https://github.com/speakeasy-sdks/train-travel-sdks/assets/6267663/d864e2a6-df55-4459-81e7-a5698a72a373" style="margin: 100px;" width="50px"/></a>
-      <a href="https://github.com/speakeasy-sdks/train-travel-sdks/tree/main/python"><img src="https://github.com/speakeasy-sdks/train-travel-sdks/assets/6267663/5edfc395-6d01-4de5-a65c-3ae22b37efaf" style="padding: 10px;" width="50px"/></a>
-      <a href="https://github.com/speakeasy-sdks/train-travel-sdks/tree/main/go"><img src="https://github.com/speakeasy-sdks/train-travel-sdks/assets/6267663/08298018-87ba-48e3-9fa0-84a35c094106" style="padding: 10px;" width="75px"/></a>
+      <a href="https://github.com/speakeasy-sdks/train-travel-sdks/tree/main/typescript" ><img src="https://github.com/speakeasy-sdks/train-travel-sdks/assets/6267663/d864e2a6-df55-4459-81e7-a5698a72a373" style="margin: 100px;" width="100px"/></a>
+      <a href="https://github.com/speakeasy-sdks/train-travel-sdks/tree/main/python"><img src="https://github.com/speakeasy-sdks/train-travel-sdks/assets/6267663/5edfc395-6d01-4de5-a65c-3ae22b37efaf" style="padding: 10px;" width="100px"/></a>
+      <a href="https://github.com/speakeasy-sdks/train-travel-sdks/tree/main/go"><img src="https://github.com/speakeasy-sdks/train-travel-sdks/assets/6267663/08298018-87ba-48e3-9fa0-84a35c094106" style="padding: 10px;" width="100px"/></a>
 </div>
