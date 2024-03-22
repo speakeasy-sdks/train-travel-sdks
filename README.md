@@ -10,7 +10,7 @@
 
 ---
 
-<div align="center">
+<div align="center" display="flex" justify-content="space-between">
       <a href="https://github.com/speakeasy-sdks/train-travel-sdks/tree/main/typescript"><img src="https://github.com/speakeasy-sdks/train-travel-sdks/assets/6267663/65cb98e8-0017-4aa7-ba1f-75b5084af0c3" /></a>
       <a href="https://github.com/speakeasy-sdks/train-travel-sdks/tree/main/python"><img src="https://github.com/speakeasy-sdks/train-travel-sdks/assets/6267663/926f2f30-0389-484f-8b09-43552399d90c" /></a>
       <a href="https://github.com/speakeasy-sdks/train-travel-sdks/tree/main/go"><img src="https://github.com/speakeasy-sdks/train-travel-sdks/assets/6267663/5c69a2bd-33ae-4fce-9b5a-15a72acbbbd6" /></a>
