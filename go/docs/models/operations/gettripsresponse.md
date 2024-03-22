@@ -1,0 +1,11 @@
+# GetTripsResponse
+
+
+## Fields
+
+| Field                                                                               | Type                                                                                | Required                                                                            | Description                                                                         |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| `HTTPMeta`                                                                          | [components.HTTPMetadata](../../models/components/httpmetadata.md)                  | :heavy_check_mark:                                                                  | N/A                                                                                 |
+| `TwoHundredApplicationJSONObject`                                                   | [*operations.GetTripsResponseBody](../../models/operations/gettripsresponsebody.md) | :heavy_minus_sign:                                                                  | A list of available train trips                                                     |
+| `Body`                                                                              | *[]byte*                                                                            | :heavy_minus_sign:                                                                  | N/A                                                                                 |
+| `Headers`                                                                           | map[string][]*string*                                                               | :heavy_check_mark:                                                                  | N/A                                                                                 |

@@ -1,0 +1,12 @@
+# GetTripsRequest
+
+
+## Fields
+
+| Field                                                                          | Type                                                                           | Required                                                                       | Description                                                                    |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| `Origin`                                                                       | *string*                                                                       | :heavy_check_mark:                                                             | The ID of the origin station                                                   |
+| `Destination`                                                                  | *string*                                                                       | :heavy_check_mark:                                                             | The ID of the destination station                                              |
+| `Date`                                                                         | [time.Time](https://pkg.go.dev/time#Time)                                      | :heavy_check_mark:                                                             | The date and time of the trip in ISO 8601 format in origin station's timezone. |
+| `Bicycles`                                                                     | **bool*                                                                        | :heavy_minus_sign:                                                             | Only return trips where bicycles are known to be allowed                       |
+| `Dogs`                                                                         | **bool*                                                                        | :heavy_minus_sign:                                                             | Only return trips where dogs are known to be allowed                           |

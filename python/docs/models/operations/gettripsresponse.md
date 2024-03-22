@@ -1,0 +1,11 @@
+# GetTripsResponse
+
+
+## Fields
+
+| Field                                                                                        | Type                                                                                         | Required                                                                                     | Description                                                                                  |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| `http_meta`                                                                                  | [components.HTTPMetadata](../../models/components/httpmetadata.md)                           | :heavy_check_mark:                                                                           | N/A                                                                                          |
+| `headers`                                                                                    | Dict[str, List[*str*]]                                                                       | :heavy_check_mark:                                                                           | N/A                                                                                          |
+| `two_hundred_application_json_object`                                                        | [Optional[operations.GetTripsResponseBody]](../../models/operations/gettripsresponsebody.md) | :heavy_minus_sign:                                                                           | A list of available train trips                                                              |
+| `body`                                                                                       | *Optional[bytes]*                                                                            | :heavy_minus_sign:                                                                           | N/A                                                                                          |

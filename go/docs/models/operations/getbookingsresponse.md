@@ -1,0 +1,11 @@
+# GetBookingsResponse
+
+
+## Fields
+
+| Field                                                                                     | Type                                                                                      | Required                                                                                  | Description                                                                               |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| `HTTPMeta`                                                                                | [components.HTTPMetadata](../../models/components/httpmetadata.md)                        | :heavy_check_mark:                                                                        | N/A                                                                                       |
+| `TwoHundredApplicationJSONObject`                                                         | [*operations.GetBookingsResponseBody](../../models/operations/getbookingsresponsebody.md) | :heavy_minus_sign:                                                                        | A list of bookings                                                                        |
+| `Body`                                                                                    | *[]byte*                                                                                  | :heavy_minus_sign:                                                                        | N/A                                                                                       |
+| `Headers`                                                                                 | map[string][]*string*                                                                     | :heavy_check_mark:                                                                        | N/A                                                                                       |
